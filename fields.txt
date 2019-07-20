@@ -1,0 +1,200 @@
+---
+FieldName: FName
+---
+FieldName: SName
+---
+FieldName: RegAge
+---
+FieldName: PCode
+---
+FieldName: HomeTel
+---
+FieldName: MobileTel
+---
+FieldName: Email
+---
+FieldName: Nationality
+---
+FieldName: PlaceofBirth
+---
+FieldName: NINO1
+---
+FieldName: NINO2
+---
+FieldName: NINO3
+---
+FieldName: NINO4
+---
+FieldName: NINO5
+---
+FieldName: NINO6
+---
+FieldName: NINO7
+---
+FieldName: NINO8
+---
+FieldName: NINO9
+---
+FieldName: ReceiptYes
+---
+FieldName: ReceiptNo
+---
+FieldName: DoBDay
+---
+FieldName: DoBMonth
+---
+FieldName: DoBYear
+---
+FieldName: AddLine1
+---
+FieldName: AddLine2
+---
+FieldName: AddCity
+---
+FieldName: 3Not
+---
+FieldName: 3JSA
+---
+FieldName: 3IS
+---
+FieldName: 3Carers
+---
+FieldName: 3ESA
+---
+FieldName: 3PIP
+---
+FieldName: 3ChildTax
+---
+FieldName: 3Child
+---
+FieldName: 3ChildWork
+---
+FieldName: 3UC
+---
+FieldName: 3Other
+---
+FieldName: 4Un06
+---
+FieldName: 4Un712
+---
+FieldName: 4UnOver
+---
+FieldName: 4In06
+---
+FieldName: 4In712
+---
+FieldName: 4InOver
+---
+FieldName: ESUnemp
+---
+FieldName: ESLTU
+---
+FieldName: ESInact
+---
+FieldName: InactReason
+---
+FieldName: 5LTU
+---
+FieldName: 5LivJoblessHouse
+---
+FieldName: 5LivJoblessHouseChild
+---
+FieldName: 5LivSingAdultChild
+---
+FieldName: 5Disabled
+---
+FieldName: 5Migrant
+---
+FieldName: 5Homeless
+---
+FieldName: 5Asylum
+---
+FieldName: 5Refugee
+---
+FieldName: 5OldCarer
+---
+FieldName: 5YoungCarer
+--
+FieldName: 5Mental
+---
+FieldName: 5Criminal
+---
+FieldName: 5LTPI
+---
+FieldName: 5NoWork
+---
+FieldName: 5Substance
+--
+FieldName: 5LowSkill
+---
+FieldName: 5ArmedForces
+---
+FieldName: 5Above54
+---
+FieldName: 5Rural
+---
+FieldName: 5RemoteRural
+---
+FieldName: 5EDA
+---
+FieldName: Bar2Reason
+---
+ieldName: Bar1Reason
+---
+FieldName: DoBEvi
+---
+FieldName: RTWEvi
+---
+FieldName: AddEvi
+---
+FieldName: ESEvi
+---
+FieldName: BarEvi
+---
+FieldName: BenEvi
+---
+FieldName: OtherEvi
+---
+FieldName: ISCED2
+---
+FieldName: ISCED3
+---
+FieldName: ISCED4
+---
+FieldName: ISCED6
+---
+FieldName: ISCED8
+---
+FieldName: ISCED5
+---
+FieldName: ISCED7
+---
+ieldName: Male
+---
+FieldName: Female
+---
+ieldName: EUCit
+---
+FieldName: UKVisaHolder
+---
+FieldName: AsylumSeeker
+---
+FieldName: ConsiderDisabledYes
+---
+FieldName: RegDisableYes
+---
+FieldName: RefugeeCit
+---
+FieldName: OtherCit
+---
+FieldName: ConsiderDisabledNo
+---
+FieldName: RegDisabledNo
+---
+FieldName: MarketEmail
+---
+FieldName: MarketPost
+---
+FieldName: MarketMobile
+---
+ieldName: MarketHome
